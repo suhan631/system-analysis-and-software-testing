@@ -30,3 +30,6 @@ int main(){
     avg(arr);
     return 0;
 }
+/*vector is a template class in C++ from the Standard Template Library (STL) that represents a dynamic array. 
+Unlike regular arrays, vectors can change size dynamically as elements are added or removed.*/
+
